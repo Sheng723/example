@@ -5,6 +5,7 @@ body {
     background-color: #ffc;
     margin: 20px;
     padding: 0;
+    border-style: dashed;
 }
 
 /* This is a comment, by the way */
